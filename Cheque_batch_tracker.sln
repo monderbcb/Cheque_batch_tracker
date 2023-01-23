@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cheque_batch_tracker", "Cheque_batch_tracker\Cheque_batch_tracker.csproj", "{8ED03894-6C93-4DCC-AC2E-1A9E73045FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheque_batch_trackerTests", "Cheque_batch_trackerTests\Cheque_batch_trackerTests.csproj", "{4DF559C7-E836-4F1A-B93F-0FE92A5F45AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED03894-6C93-4DCC-AC2E-1A9E73045FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED03894-6C93-4DCC-AC2E-1A9E73045FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED03894-6C93-4DCC-AC2E-1A9E73045FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED03894-6C93-4DCC-AC2E-1A9E73045FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF559C7-E836-4F1A-B93F-0FE92A5F45AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF559C7-E836-4F1A-B93F-0FE92A5F45AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF559C7-E836-4F1A-B93F-0FE92A5F45AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF559C7-E836-4F1A-B93F-0FE92A5F45AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64CDA0F4-201F-4052-BF9C-385925A30F15}
+	EndGlobalSection
+EndGlobal
